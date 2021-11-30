@@ -27,7 +27,7 @@ class UnknownAlgorithmsTest: XCTestCase {
         //act
         //assert
         for testCase in testCases {
-            let actual = algorithms.CalcMode(testCase.given)
+            let actual = algorithms.calcMode(testCase.given)
             XCTAssertEqual(actual, expected)
         }
     }

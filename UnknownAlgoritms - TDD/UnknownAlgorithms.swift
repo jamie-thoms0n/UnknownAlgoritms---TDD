@@ -19,9 +19,10 @@ class UnknownAlgorithms {
         }
     }
     
-    
-    
-    
+    func calcMode ( _ given : [Int]) -> Int {
+        return 0
+        for i in give
+    }
     
     
     
