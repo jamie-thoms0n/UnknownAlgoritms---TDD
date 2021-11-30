@@ -20,8 +20,9 @@ class UnknownAlgorithms {
     }
     
     func calcMode ( _ given : [Int]) -> Int {
-        return 0
-        for i in give
+        var newGiven = given
+        let sortedArray = given.sort()
+        
     }
     
     
